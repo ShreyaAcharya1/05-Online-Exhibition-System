@@ -4,7 +4,7 @@
                                                                   
 IT619 -: DESIGN OF SOFTWARE SYSTEMS PROJECT: ONLINE EXHIBITION MANAGEMENT SYSTEM GUIDE: Dr Jay Prakash & Dr P.M. Jat
                             
-                            GROUP MEMBER'S DETAILS
+GROUP MEMBER'S DETAILS
     Name                 Student ID
 Shreya Acharya           2021 12127
 Meet Kalariya.           2021 12065
